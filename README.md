@@ -19,7 +19,7 @@ This tool:
 3. Extract the downloaded ZIP file to a folder.
 4. Navigate into the folder (`main.py` visible on the directory).
 5. Right-click > **[Open in Terminal]**.
-6. Type `pip install .`, and hit Enter.
+6. Type `pip install .` (with the dot), and hit Enter.
 
 ## Usage
 
