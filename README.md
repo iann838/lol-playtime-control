@@ -4,7 +4,7 @@ This is a software tool designed to help League of Legends players manage and co
 
 ## Trust
 
-It is understandable that using a third-party application the ability to close your game can be a concern. This is why the code is open-source and available for review, the installation process is also performed locally on your machine using the direct source code from this repository. You can prompt this repository https://github.com/iann838/lol-playtime-control to an AI model with reasoning capabilities (ChatGPT, Grok, etc.) for further insights and review.
+It is understandable that using a third-party application the ability to close your game can be a concern. This is why the code is open-source and available for review, the installation and build process is also performed locally on your machine using the source code from this repository. You can prompt this repository https://github.com/iann838/lol-playtime-control to an AI model with reasoning capabilities (ChatGPT, Grok, etc.) for further insights and review.
 
 This tool:
 - Does not collect any personal data or usage statistics.
@@ -17,7 +17,7 @@ This tool:
 1. Have [Python 3](https://www.python.org/downloads/) installed on your system.
 2. Download this repository as ZIP. Top-right **[<> Code]** > **[Local]** > **[Download ZIP]**.
 3. Extract the downloaded ZIP file to a folder.
-4. Navigate into the folder (main.py visible on the directory).
+4. Navigate into the folder (`main.py` visible on the directory).
 5. Right-click > **[Open in Terminal]**.
 6. Type `pip install .`, and hit Enter.
 
